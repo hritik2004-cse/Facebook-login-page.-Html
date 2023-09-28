@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            sign up page 
+        </title>
+    </head>
+    
+    <body>
+    
+    <div class="box">
+    
+        <form>
+        
+            <h2>
+                signup
+            </h2>
+            
+                <input type="email" id="email" placeholder="Email" required><br>
+                <input type="password" id="pass" placeholder="Create password" required min ="6" max  ="8" ><br>
+                <input type="password" id="pass" placeholder="Confirm password"required min lenght="6" max lenght="8">
+                    
+                <br>
+                <button type="submit" oneclick=("alert('hello')")>
+                    signup
+                </button>
+                
+                <p style="margin-top:5px">                                Already have an account?
+                <a href="https://m.facebook.com/">
+                    login
+                </a>
+                    
+                </p>
+        
+        </form>
+        
+        
+        <section id="fbbutton">
+        
+        <img src="https://ww2.freelogovectors.net/wp-content/uploads/2023/03/facebook-logo-new-2019-freelogovectors.net_.png">
+                            <p style="color:white ; margin-top:300px; margin-bottom:-600px;">login with facebook</p>
+        
+            
+        </section>
+        <section id="g">
+            <img src="https://w7.pngwing.com/pngs/249/19/png-transparent-google-logo-g-suite-google-guava-google-plus-company-text-logo.png">
+            <p style="color:#A9A9A9;margin-top:10px;margin-left:90px">
+                login with google
+            </p>
+        </section>
+        
+    </div>
+    
+    
+        
+    </body>
+</html>
