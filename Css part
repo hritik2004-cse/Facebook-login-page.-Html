@@ -1,0 +1,70 @@
+body {
+    background-color:#6A5ACD;
+}
+.box{
+    border:1px solid #FFF;
+    border-radius:7px;
+    height:550px;
+    background-color:#FFF;
+    
+}
+form{
+    text-align:center;
+    margin-top:80px;
+    height:100px;
+}
+h2{
+    margin-top:-60px;
+}
+#fbbutton{
+background-color:#1E90FF;
+border:none;
+border-radius:5px;
+margin-top:265px;
+margin-left:20px;
+margin-right:20px;
+height:40px;
+width:300px;
+text-align:center;
+    
+}
+#g{
+background-color:#F5F5F5;
+border:1px solid #DCDCDC;
+border-radius:5px;
+margin:15px 20px;
+height:40px;
+width:300px;
+
+}
+img{
+    height:35px;
+    float:left ;
+}
+button{
+    background-color:#1E90FF;
+    border:none;
+    border-radius:5px;
+    color:white;
+    height:40px;
+    width:300px;
+    margin-top:20px;
+    font-weight:bolder ;
+    
+}
+a{
+    text-decoration:none;
+    color:#6495ED;
+}
+a:hover{
+    color:#9932CC;
+}
+input{
+    margin:5px;
+    height:35px;
+    width:300px;
+    border:1px solid #DCDCDC;
+    
+    border-radius:5px  
+    
+}
